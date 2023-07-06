@@ -1,0 +1,16 @@
+h1,
+h2 {
+  text-align: center;
+}
+
+.block {
+  padding: 1rem 5rem;
+  margin: 5rem;
+  border: 2px solid #000;
+}
+
+.mini-block {
+  padding: 1rem 1rem;
+  margin: 1rem;
+  border: 1px solid #000;
+}
